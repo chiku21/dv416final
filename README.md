@@ -1,6 +1,6 @@
 ## A Narrative visualization project for DV416 
 
-Visit: 
+Visit: https://github.com/chiku21/dv416final.git
 
 ### ABOUT THE VISUALIZATION
 This narrative visualization uses the Interactive Slideshow approach to take you through a visual journey of the housing market from Jan 2010 to July 2021 in the Greater Seattle Metro area.
@@ -26,10 +26,10 @@ City location served as the main parameter for the Current Median Home Price bub
 As noted above, buttons were used on both set of line charts to trigger the display  of a proper chart (home price vs YoY and Inventory vs YoY).  The City Locator selector serves as the mechanism to trigger the highlights of cities based on the selected direction. Data tooltips appear upon mouse over event on all the charts.
 The slide navigator also serves as the trigger allowing readers to jump to a specific slide.
 
-
+Note: For the YoY Inventory file, as the values are present until July 1st 2021, it has been extrapolated to reflect till the year end. 
 
 References:
-https://www.zillow.com/research/data/
-https://unsplash.com/s/photos/seattle
-https://www.w3schools.com/
-https://d3js.org/
+## https://www.zillow.com/research/data/
+## https://unsplash.com/s/photos/seattle
+## https://www.w3schools.com/
+## https://d3js.org/
